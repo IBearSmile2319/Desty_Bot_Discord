@@ -1,6 +1,4 @@
 {
-    "discord_token": "NzQ5NzkyODkyMjMwNTY1OTUw.X0xJCw.3XNBADUG02toPBpK2eZ3fQLX7vQ",
-    "botid": "749792892230565950",
     "prefix": "*",
     "comandos":["play","pause","next","stop","help","info"]
 }

@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { Client } = require('discord.js');
 const ytdl = require('ytdl-core');
 const fs = require('fs');
@@ -118,4 +119,4 @@ function isURL(args) {
 
 }
 
-client.login(discord_token);
+client.login(process.env.TOKEN_ENV);
