@@ -5,6 +5,7 @@ const fs = require('fs');
 const client = new Client();
 const { discord_token, prefix, comandos, botid } = require('./config.json');
 
+//maicolgamer23@hotmail.com
 // -----------------------
 client.on('ready', () => {
     console.log("Desty,Estoy listo!");
